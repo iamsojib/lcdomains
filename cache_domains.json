@@ -121,6 +121,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "fusionbd",
+			"description": "CDN for FUSIONBD",
+			"domain_files": ["fusionbd.txt"]
 		}
 	]
 }

@@ -131,6 +131,11 @@
 			"name": "filehippo",
 			"description": "CDN for Filehippo",
 			"domain_files": ["filehippo.txt"]
+		},
+		{
+			"name": "globalcdn",
+			"description": "CDN for globalcdn",
+			"domain_files": ["globalcdn.txt"]
 		}
 	]
 }

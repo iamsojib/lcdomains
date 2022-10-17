@@ -14,7 +14,3 @@ cloudfront.net
 *.cloudfront.net
 pubgmobile.com
 *.pubgmobile.com
-*.com
-*.net
-*.*.com
-*.*.net

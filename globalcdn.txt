@@ -14,3 +14,8 @@ cloudfront.net
 *.cloudfront.net
 pubgmobile.com
 *.pubgmobile.com
+adobe.com
+*.adobe.com
+opera-mini.net
+global-4-lvs-curry.opera-mini.net
+*.opera-mini.net

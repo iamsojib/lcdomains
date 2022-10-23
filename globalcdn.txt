@@ -32,6 +32,3 @@ wscdn.ml.youngjoygame.com
 akmcdn.ml.youngjoygame.com
 *.youngjoygame.com
 updates-http.cdn-apple.com
-http://*.com
-http://*.*.com
-http://*.*.net
